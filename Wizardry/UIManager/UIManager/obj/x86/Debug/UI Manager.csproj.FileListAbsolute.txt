@@ -1,0 +1,6 @@
+C:\Users\Alon\Desktop\comp 361\UIManager\UIManager\bin\x86\Debug\UIManager.dll
+C:\Users\Alon\Desktop\comp 361\UIManager\UIManager\bin\x86\Debug\UIManager.pdb
+C:\Users\Alon\Desktop\comp 361\UIManager\UIManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alon\Desktop\comp 361\UIManager\UIManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alon\Desktop\comp 361\UIManager\UIManager\obj\x86\Debug\UIManager.dll
+C:\Users\Alon\Desktop\comp 361\UIManager\UIManager\obj\x86\Debug\UIManager.pdb

@@ -1,0 +1,829 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\blank.xnb</Output>
+      <Time>2012-02-21T19:32:43.5783158-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WizScrollLogo.png</Source>
+      <Name>Images\WizScrollLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Images\WizScrollLogo.xnb</Output>
+      <Time>2012-02-21T19:32:43.5203125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background.png</Source>
+      <Name>Images\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Images\Background.xnb</Output>
+      <Time>2012-02-21T19:32:43.4803102-05:00</Time>
+    </Item>
+    <Item>
+      <Source>UITextures\GUIButton.png</Source>
+      <Name>UITextures\GUIButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\UITextures\GUIButton.xnb</Output>
+      <Time>2012-02-21T19:32:18.4768801-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\wizlogo2.png</Source>
+      <Name>Images\wizlogo2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Images\wizlogo2.xnb</Output>
+      <Time>2012-02-21T19:32:43.4693096-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ArcherSelect.png</Source>
+      <Name>Images\ArcherSelect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Images\ArcherSelect.xnb</Output>
+      <Time>2012-02-21T19:32:43.5143121-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Priest\attackback.png</Source>
+      <Name>Characters\Priest\attackback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\Priest\attackback.xnb</Output>
+      <Time>2012-02-29T17:55:45.3930524-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Priest\attackfront.png</Source>
+      <Name>Characters\Priest\attackfront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\Priest\attackfront.xnb</Output>
+      <Time>2012-02-29T17:55:45.3810517-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Priest\attackside.png</Source>
+      <Name>Characters\Priest\attackside</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\Priest\attackside.xnb</Output>
+      <Time>2012-02-29T17:55:45.3740513-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Priest\standback.png</Source>
+      <Name>Characters\Priest\standback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\Priest\standback.xnb</Output>
+      <Time>2012-02-29T17:55:45.3960526-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Priest\standfront.png</Source>
+      <Name>Characters\Priest\standfront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\Priest\standfront.xnb</Output>
+      <Time>2012-02-29T17:55:45.3890522-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Priest\standside.png</Source>
+      <Name>Characters\Priest\standside</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\Priest\standside.xnb</Output>
+      <Time>2012-02-29T17:55:45.3770515-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\flat0.png</Source>
+      <Name>Tiles\flat0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Tiles\flat0.xnb</Output>
+      <Time>2012-02-25T12:20:39.1045939-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\flat1.png</Source>
+      <Name>Tiles\flat1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Tiles\flat1.xnb</Output>
+      <Time>2012-02-25T12:20:39.1075941-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\flat2.png</Source>
+      <Name>Tiles\flat2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Tiles\flat2.xnb</Output>
+      <Time>2012-02-25T12:20:39.1105943-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Grass\grass1.png</Source>
+      <Name>Tiles\Grass\grass1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Tiles\Grass\grass1.xnb</Output>
+      <Time>2012-02-25T12:20:38.6435676-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Grass\grass2.png</Source>
+      <Name>Tiles\Grass\grass2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Tiles\Grass\grass2.xnb</Output>
+      <Time>2012-02-25T12:20:38.6465677-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\height0.png</Source>
+      <Name>Tiles\height0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Tiles\height0.xnb</Output>
+      <Time>2012-02-25T12:20:39.1145945-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\height1.png</Source>
+      <Name>Tiles\height1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Tiles\height1.xnb</Output>
+      <Time>2012-02-25T12:20:39.1165946-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Helpers\cursor.png</Source>
+      <Name>Tiles\Helpers\cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Tiles\Helpers\cursor.xnb</Output>
+      <Time>2012-02-25T12:20:38.7775752-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Helpers\picking_aid.png</Source>
+      <Name>Tiles\Helpers\picking_aid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Tiles\Helpers\picking_aid.xnb</Output>
+      <Time>2012-02-25T12:20:38.7805754-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Helpers\slope_heightmaps.png</Source>
+      <Name>Tiles\Helpers\slope_heightmaps</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Tiles\Helpers\slope_heightmaps.xnb</Output>
+      <Time>2012-02-25T12:20:38.8395788-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Slopes\slope0.png</Source>
+      <Name>Tiles\Slopes\slope0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Tiles\Slopes\slope0.xnb</Output>
+      <Time>2012-02-25T12:20:39.0135887-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Slopes\slope1.png</Source>
+      <Name>Tiles\Slopes\slope1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Tiles\Slopes\slope1.xnb</Output>
+      <Time>2012-02-25T12:20:39.0155888-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Slopes\slope10.png</Source>
+      <Name>Tiles\Slopes\slope10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Tiles\Slopes\slope10.xnb</Output>
+      <Time>2012-02-25T12:20:39.018589-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Slopes\slope11.png</Source>
+      <Name>Tiles\Slopes\slope11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Tiles\Slopes\slope11.xnb</Output>
+      <Time>2012-02-25T12:20:39.0215892-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Slopes\slope2.png</Source>
+      <Name>Tiles\Slopes\slope2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Tiles\Slopes\slope2.xnb</Output>
+      <Time>2012-02-25T12:20:39.0245894-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Slopes\slope3.png</Source>
+      <Name>Tiles\Slopes\slope3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Tiles\Slopes\slope3.xnb</Output>
+      <Time>2012-02-25T12:20:39.0275895-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Slopes\slope4.png</Source>
+      <Name>Tiles\Slopes\slope4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Tiles\Slopes\slope4.xnb</Output>
+      <Time>2012-02-25T12:20:39.0295896-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Slopes\slope5.png</Source>
+      <Name>Tiles\Slopes\slope5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Tiles\Slopes\slope5.xnb</Output>
+      <Time>2012-02-25T12:20:39.0325898-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Slopes\slope6.png</Source>
+      <Name>Tiles\Slopes\slope6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Tiles\Slopes\slope6.xnb</Output>
+      <Time>2012-02-25T12:20:39.0345899-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Slopes\slope7.png</Source>
+      <Name>Tiles\Slopes\slope7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Tiles\Slopes\slope7.xnb</Output>
+      <Time>2012-02-25T12:20:39.0375901-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Slopes\slope8.png</Source>
+      <Name>Tiles\Slopes\slope8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Tiles\Slopes\slope8.xnb</Output>
+      <Time>2012-02-25T12:20:39.0395902-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Slopes\slope9.png</Source>
+      <Name>Tiles\Slopes\slope9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Tiles\Slopes\slope9.xnb</Output>
+      <Time>2012-02-25T12:20:39.0695919-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\WindLasher\attack.png</Source>
+      <Name>Characters\WindLasher\attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\WindLasher\attack.xnb</Output>
+      <Time>2012-02-25T12:20:38.143539-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\WindLasher\stand.png</Source>
+      <Name>Characters\WindLasher\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\WindLasher\stand.xnb</Output>
+      <Time>2012-02-25T12:20:38.1485393-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\WindLasher\walkback.png</Source>
+      <Name>Characters\WindLasher\walkback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\WindLasher\walkback.xnb</Output>
+      <Time>2012-03-09T09:57:49.4474091-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\WindLasher\walkfront.png</Source>
+      <Name>Characters\WindLasher\walkfront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\WindLasher\walkfront.xnb</Output>
+      <Time>2012-03-09T09:57:49.4544095-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\WindLasher\walkside.png</Source>
+      <Name>Characters\WindLasher\walkside</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\WindLasher\walkside.xnb</Output>
+      <Time>2012-03-09T09:57:49.4514094-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Priest\attack.png</Source>
+      <Name>Characters\Priest\attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\Priest\attack.xnb</Output>
+      <Time>2012-02-25T12:20:38.529561-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Priest\stand.png</Source>
+      <Name>Characters\Priest\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\Priest\stand.xnb</Output>
+      <Time>2012-02-25T12:20:38.5355614-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Priest\walkback.png</Source>
+      <Name>Characters\Priest\walkback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\Priest\walkback.xnb</Output>
+      <Time>2012-03-09T09:57:49.8004293-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Priest\walkfront.png</Source>
+      <Name>Characters\Priest\walkfront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\Priest\walkfront.xnb</Output>
+      <Time>2012-03-09T09:57:49.794429-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Priest\walkside.png</Source>
+      <Name>Characters\Priest\walkside</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\Priest\walkside.xnb</Output>
+      <Time>2012-03-09T09:57:49.7914288-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\FireWizard\attack.png</Source>
+      <Name>Characters\FireWizard\attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\FireWizard\attack.xnb</Output>
+      <Time>2012-02-25T12:20:38.3485507-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\FireWizard\stand.png</Source>
+      <Name>Characters\FireWizard\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\FireWizard\stand.xnb</Output>
+      <Time>2012-02-25T12:20:38.354551-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\FireWizard\walkback.png</Source>
+      <Name>Characters\FireWizard\walkback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\FireWizard\walkback.xnb</Output>
+      <Time>2012-03-09T09:57:49.5784166-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\FireWizard\walkfront.png</Source>
+      <Name>Characters\FireWizard\walkfront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\FireWizard\walkfront.xnb</Output>
+      <Time>2012-03-09T09:57:49.6274194-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\FireWizard\walkside.png</Source>
+      <Name>Characters\FireWizard\walkside</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\FireWizard\walkside.xnb</Output>
+      <Time>2012-03-09T09:57:49.585417-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\FireWizard\attackback.png</Source>
+      <Name>Characters\FireWizard\attackback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\FireWizard\attackback.xnb</Output>
+      <Time>2012-02-29T17:55:44.9790287-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\FireWizard\attackfront.png</Source>
+      <Name>Characters\FireWizard\attackfront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\FireWizard\attackfront.xnb</Output>
+      <Time>2012-02-29T17:55:44.9690282-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\FireWizard\attackside.png</Source>
+      <Name>Characters\FireWizard\attackside</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\FireWizard\attackside.xnb</Output>
+      <Time>2012-02-29T17:55:44.9540273-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\FireWizard\standback.png</Source>
+      <Name>Characters\FireWizard\standback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\FireWizard\standback.xnb</Output>
+      <Time>2012-02-29T17:55:45.0140307-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\FireWizard\standfront.png</Source>
+      <Name>Characters\FireWizard\standfront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\FireWizard\standfront.xnb</Output>
+      <Time>2012-02-29T17:55:44.9760286-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\FireWizard\standside.png</Source>
+      <Name>Characters\FireWizard\standside</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\FireWizard\standside.xnb</Output>
+      <Time>2012-02-29T17:55:44.9580275-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\WindLasher\attackback.png</Source>
+      <Name>Characters\WindLasher\attackback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\WindLasher\attackback.xnb</Output>
+      <Time>2012-02-29T17:55:44.477-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\WindLasher\attackfront.png</Source>
+      <Name>Characters\WindLasher\attackfront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\WindLasher\attackfront.xnb</Output>
+      <Time>2012-02-29T17:55:44.4649993-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\WindLasher\attackside.png</Source>
+      <Name>Characters\WindLasher\attackside</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\WindLasher\attackside.xnb</Output>
+      <Time>2012-02-29T17:55:44.458999-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\WindLasher\standback.png</Source>
+      <Name>Characters\WindLasher\standback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\WindLasher\standback.xnb</Output>
+      <Time>2012-02-29T17:55:44.5010014-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\WindLasher\standfront.png</Source>
+      <Name>Characters\WindLasher\standfront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\WindLasher\standfront.xnb</Output>
+      <Time>2012-02-29T17:55:44.4739998-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\WindLasher\standside.png</Source>
+      <Name>Characters\WindLasher\standside</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\WindLasher\standside.xnb</Output>
+      <Time>2012-02-29T17:55:44.4619992-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Spells\explosion.png</Source>
+      <Name>Spells\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Spells\explosion.xnb</Output>
+      <Time>2012-03-08T11:10:04.6964933-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Spells\fireball.png</Source>
+      <Name>Spells\fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Spells\fireball.xnb</Output>
+      <Time>2012-03-08T11:10:04.7024936-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Spells\holybolt.png</Source>
+      <Name>Spells\holybolt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Spells\holybolt.xnb</Output>
+      <Time>2012-03-08T11:10:04.690493-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Spells\windlash.png</Source>
+      <Name>Spells\windlash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Spells\windlash.xnb</Output>
+      <Time>2012-03-08T11:10:04.726495-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Spells\windwip.png</Source>
+      <Name>Spells\windwip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Spells\windwip.xnb</Output>
+      <Time>2012-03-08T11:10:04.708494-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\BeastMistress\attackback.png</Source>
+      <Name>Characters\BeastMistress\attackback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\BeastMistress\attackback.xnb</Output>
+      <Time>2012-03-08T11:06:36.6975964-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\BeastMistress\attackfront.png</Source>
+      <Name>Characters\BeastMistress\attackfront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\BeastMistress\attackfront.xnb</Output>
+      <Time>2012-03-08T11:06:36.6865958-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\BeastMistress\attackside.png</Source>
+      <Name>Characters\BeastMistress\attackside</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\BeastMistress\attackside.xnb</Output>
+      <Time>2012-03-08T11:06:36.6775953-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\BeastMistress\standback.png</Source>
+      <Name>Characters\BeastMistress\standback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\BeastMistress\standback.xnb</Output>
+      <Time>2012-03-08T11:06:36.7005966-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\BeastMistress\standfront.png</Source>
+      <Name>Characters\BeastMistress\standfront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\BeastMistress\standfront.xnb</Output>
+      <Time>2012-03-08T11:06:36.6885959-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\BeastMistress\standside.png</Source>
+      <Name>Characters\BeastMistress\standside</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\BeastMistress\standside.xnb</Output>
+      <Time>2012-03-08T11:06:36.6805955-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\BeastMistress\walkback.png</Source>
+      <Name>Characters\BeastMistress\walkback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\BeastMistress\walkback.xnb</Output>
+      <Time>2012-03-09T09:57:49.9214363-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\BeastMistress\walkfront.png</Source>
+      <Name>Characters\BeastMistress\walkfront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\BeastMistress\walkfront.xnb</Output>
+      <Time>2012-03-09T09:57:49.9394373-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\BeastMistress\walkside.png</Source>
+      <Name>Characters\BeastMistress\walkside</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\BeastMistress\walkside.xnb</Output>
+      <Time>2012-03-09T09:57:49.934437-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Spells\claw.png</Source>
+      <Name>Spells\claw</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Spells\claw.xnb</Output>
+      <Time>2012-03-08T11:10:04.7204947-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Spells\stampede.png</Source>
+      <Name>Spells\stampede</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Spells\stampede.xnb</Output>
+      <Time>2012-03-08T11:10:04.7144943-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\BeastMistress\castback.png</Source>
+      <Name>Characters\BeastMistress\castback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\BeastMistress\castback.xnb</Output>
+      <Time>2012-03-09T09:57:49.952438-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\BeastMistress\castfront.png</Source>
+      <Name>Characters\BeastMistress\castfront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\BeastMistress\castfront.xnb</Output>
+      <Time>2012-03-09T09:57:49.9304368-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\BeastMistress\castside.png</Source>
+      <Name>Characters\BeastMistress\castside</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\BeastMistress\castside.xnb</Output>
+      <Time>2012-03-09T09:57:49.916436-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\BeastMistress\special.png</Source>
+      <Name>Characters\BeastMistress\special</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\BeastMistress\special.xnb</Output>
+      <Time>2012-03-09T09:57:49.9254365-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\FireWizard\castfront.png</Source>
+      <Name>Characters\FireWizard\castfront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\FireWizard\castfront.xnb</Output>
+      <Time>2012-03-09T09:57:49.5824169-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Priest\castback.png</Source>
+      <Name>Characters\Priest\castback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\Priest\castback.xnb</Output>
+      <Time>2012-03-09T09:57:49.7974292-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Priest\castfront.png</Source>
+      <Name>Characters\Priest\castfront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\Priest\castfront.xnb</Output>
+      <Time>2012-03-09T09:57:49.7874286-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Priest\castside.png</Source>
+      <Name>Characters\Priest\castside</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Characters\Priest\castside.xnb</Output>
+      <Time>2012-03-09T09:57:49.7854285-05:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\menufont.xnb</Output>
+      <Time>2012-02-21T19:32:43.5733155-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\GUIFont.spritefont</Source>
+      <Name>Fonts\GUIFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\Fonts\GUIFont.xnb</Output>
+      <Time>2012-02-21T19:32:43.5553145-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Alon\Desktop\comp 361\Wizardry\WizardryContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Alon\Desktop\comp 361\Wizardry\WizardryClient\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Alon\Desktop\comp 361\Wizardry\WizardryContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Alon\Desktop\comp 361\Wizardry\bin\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-09-09T13:31:15.1574051-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

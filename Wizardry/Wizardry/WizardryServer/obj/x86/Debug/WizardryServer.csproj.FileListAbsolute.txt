@@ -1,0 +1,10 @@
+C:\Users\Alon\Desktop\comp 361\Wizardry\WizardryServer\bin\x86\Debug\WizardryServer.exe
+C:\Users\Alon\Desktop\comp 361\Wizardry\WizardryServer\bin\x86\Debug\WizardryServer.pdb
+C:\Users\Alon\Desktop\comp 361\Wizardry\WizardryServer\bin\x86\Debug\Lidgren.Network.dll
+C:\Users\Alon\Desktop\comp 361\Wizardry\WizardryServer\bin\x86\Debug\Lidgren.Network.pdb
+C:\Users\Alon\Desktop\comp 361\Wizardry\WizardryServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alon\Desktop\comp 361\Wizardry\WizardryServer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alon\Desktop\comp 361\Wizardry\WizardryServer\obj\x86\Debug\WizardryServer.exe
+C:\Users\Alon\Desktop\comp 361\Wizardry\WizardryServer\obj\x86\Debug\WizardryServer.pdb
+C:\Users\Alon\Desktop\comp 361\Wizardry\bin\WizardryServer.exe
+C:\Users\Alon\Desktop\comp 361\Wizardry\bin\WizardryServer.pdb

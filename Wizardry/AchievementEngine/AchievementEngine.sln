@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AchievementTestGame", "AchievementTestGame\AchievementTestGame\AchievementTestGame.csproj", "{D86314D0-5304-4B3A-A23F-08C8E86E4B02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AchievementEngine", "AchievementEngine\AchievementEngine.csproj", "{BA1F12CD-D77D-4D98-A857-27AF2899BC21}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "AchievementTestGameContent", "AchievementTestGame\AchievementTestGameContent\AchievementTestGameContent.contentproj", "{00A30527-C645-49BD-A024-27A474113790}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA1F12CD-D77D-4D98-A857-27AF2899BC21}.Debug|x86.ActiveCfg = Debug|x86
+		{BA1F12CD-D77D-4D98-A857-27AF2899BC21}.Debug|x86.Build.0 = Debug|x86
+		{BA1F12CD-D77D-4D98-A857-27AF2899BC21}.Release|x86.ActiveCfg = Release|x86
+		{BA1F12CD-D77D-4D98-A857-27AF2899BC21}.Release|x86.Build.0 = Release|x86
+		{D86314D0-5304-4B3A-A23F-08C8E86E4B02}.Debug|x86.ActiveCfg = Debug|x86
+		{D86314D0-5304-4B3A-A23F-08C8E86E4B02}.Debug|x86.Build.0 = Debug|x86
+		{D86314D0-5304-4B3A-A23F-08C8E86E4B02}.Release|x86.ActiveCfg = Release|x86
+		{D86314D0-5304-4B3A-A23F-08C8E86E4B02}.Release|x86.Build.0 = Release|x86
+		{00A30527-C645-49BD-A024-27A474113790}.Debug|x86.ActiveCfg = Debug|x86
+		{00A30527-C645-49BD-A024-27A474113790}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

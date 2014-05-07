@@ -1,0 +1,9 @@
+C:\Users\Alon\Desktop\comp 361\Wizardry\WizardryShared\bin\x86\Debug\WizardryShared.dll
+C:\Users\Alon\Desktop\comp 361\Wizardry\WizardryShared\bin\x86\Debug\WizardryShared.pdb
+C:\Users\Alon\Desktop\comp 361\Wizardry\WizardryShared\bin\x86\Debug\TileEngine.dll
+C:\Users\Alon\Desktop\comp 361\Wizardry\WizardryShared\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alon\Desktop\comp 361\Wizardry\WizardryShared\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alon\Desktop\comp 361\Wizardry\WizardryShared\obj\x86\Debug\WizardryShared.dll
+C:\Users\Alon\Desktop\comp 361\Wizardry\WizardryShared\obj\x86\Debug\WizardryShared.pdb
+C:\Users\Alon\Desktop\comp 361\Wizardry\bin\WizardryShared.dll
+C:\Users\Alon\Desktop\comp 361\Wizardry\bin\WizardryShared.pdb
